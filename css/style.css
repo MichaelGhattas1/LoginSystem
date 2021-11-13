@@ -1,0 +1,43 @@
+body
+{
+    background-color: #212529;;
+}
+.form1
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.my-color
+{
+    color: #17a2b8;
+}
+.c-white 
+{
+    color: #fff !important;
+}
+#signUp:hover
+{
+    color: #fff;
+    text-decoration: underline !important;
+}
+.d-none
+{
+    display: none !important;
+}
+#signIn:hover
+{
+    color: #fff;
+    text-decoration: underline !important;
+}
+input
+{
+    background-color: transparent !important;
+    color: #fff !important;
+}
+.c-green 
+{
+    color: green !important;
+}
+
+span  {
+    cursor: pointer;
+}
